@@ -1,0 +1,229 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Connector_Generic_Conn_01x01
+#
+DEF Connector_Generic_Conn_01x01 J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Generic_Conn_01x01" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
+DRAW
+S -50 5 0 -5 1 1 6 N
+S -50 50 50 -50 1 1 10 f
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Connector_Generic_Conn_01x06
+#
+DEF Connector_Generic_Conn_01x06 J 0 40 Y N 1 F N
+F0 "J" 0 300 50 H V C CNN
+F1 "Connector_Generic_Conn_01x06" 0 -400 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 250 50 -350 1 1 10 f
+X Pin_1 1 -200 200 150 R 50 50 1 1 P
+X Pin_2 2 -200 100 150 R 50 50 1 1 P
+X Pin_3 3 -200 0 150 R 50 50 1 1 P
+X Pin_4 4 -200 -100 150 R 50 50 1 1 P
+X Pin_5 5 -200 -200 150 R 50 50 1 1 P
+X Pin_6 6 -200 -300 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Connector_Generic_Conn_01x08
+#
+DEF Connector_Generic_Conn_01x08 J 0 40 Y N 1 F N
+F0 "J" 0 400 50 H V C CNN
+F1 "Connector_Generic_Conn_01x08" 0 -500 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -395 0 -405 1 1 6 N
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 305 0 295 1 1 6 N
+S -50 350 50 -450 1 1 10 f
+X Pin_1 1 -200 300 150 R 50 50 1 1 P
+X Pin_2 2 -200 200 150 R 50 50 1 1 P
+X Pin_3 3 -200 100 150 R 50 50 1 1 P
+X Pin_4 4 -200 0 150 R 50 50 1 1 P
+X Pin_5 5 -200 -100 150 R 50 50 1 1 P
+X Pin_6 6 -200 -200 150 R 50 50 1 1 P
+X Pin_7 7 -200 -300 150 R 50 50 1 1 P
+X Pin_8 8 -200 -400 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Connector_Generic_Conn_01x10
+#
+DEF Connector_Generic_Conn_01x10 J 0 40 Y N 1 F N
+F0 "J" 0 500 50 H V C CNN
+F1 "Connector_Generic_Conn_01x10" 0 -600 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -495 0 -505 1 1 6 N
+S -50 -395 0 -405 1 1 6 N
+S -50 -295 0 -305 1 1 6 N
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 305 0 295 1 1 6 N
+S -50 405 0 395 1 1 6 N
+S -50 450 50 -550 1 1 10 f
+X Pin_1 1 -200 400 150 R 50 50 1 1 P
+X Pin_10 10 -200 -500 150 R 50 50 1 1 P
+X Pin_2 2 -200 300 150 R 50 50 1 1 P
+X Pin_3 3 -200 200 150 R 50 50 1 1 P
+X Pin_4 4 -200 100 150 R 50 50 1 1 P
+X Pin_5 5 -200 0 150 R 50 50 1 1 P
+X Pin_6 6 -200 -100 150 R 50 50 1 1 P
+X Pin_7 7 -200 -200 150 R 50 50 1 1 P
+X Pin_8 8 -200 -300 150 R 50 50 1 1 P
+X Pin_9 9 -200 -400 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# dk_Pressure-Sensors-Transducers_MS560702BA03-50
+#
+DEF dk_Pressure-Sensors-Transducers_MS560702BA03-50 U 0 40 Y Y 1 F N
+F0 "U" -300 350 50 H V L CNN
+F1 "dk_Pressure-Sensors-Transducers_MS560702BA03-50" 50 -450 50 H V L CNN
+F2 "digikey-footprints:SMD-8_5x3mm" 200 200 60 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English" 200 300 60 H I L CNN
+F4 "223-1198-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MS560702BA03-50" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-measurement-specialties/MS560702BA03-50/223-1198-1-ND/4700921" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "BAROMETRIC PRESSURE SENSOR" 200 1000 60 H I L CNN "Description"
+F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 300 -400 0 1 0 f
+P 4 0 1 0 -300 0 -260 0 -260 -100 -300 -100 N
+X VDD 1 0 400 100 D 50 50 1 1 W
+X PS 2 -400 100 100 R 50 50 1 1 I
+X GND 3 0 -500 100 U 50 50 1 1 W
+X CSB 4 -400 0 100 R 50 50 1 1 I
+X CSB 5 -400 -100 100 R 50 50 1 1 I
+X SDO 6 400 100 100 L 50 50 1 1 O
+X SDI/SDA 7 400 0 100 L 50 50 1 1 B
+X SCLK 8 -400 -200 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# dk_RF-Transceiver-Modules_XBP9B-DMST-002
+#
+DEF dk_RF-Transceiver-Modules_XBP9B-DMST-002 MOD 0 40 Y Y 1 F N
+F0 "MOD" -709 646 60 H V L CNN
+F1 "dk_RF-Transceiver-Modules_XBP9B-DMST-002" 38 -549 60 H V L CNN
+F2 "digikey-footprints:XBEE_PRO-20_THT" 200 200 60 H I L CNN
+F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 300 60 H I L CNN
+F4 "602-1299-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "XBP9B-DMST-002" 200 500 60 H I L CNN "MPN"
+F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
+F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
+F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/digi-international/XBP9B-DMST-002/602-1299-ND/3594157" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "RF TXRX MODULE ISM<1GHZ RP-SMA" 200 1000 60 H I L CNN "Description"
+F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -700 600 700 -500 0 1 0 f
+X Vcc 1 0 700 100 D 50 50 1 1 W
+X GND 10 0 -600 100 U 50 50 1 1 W
+X AD4/DIO4 11 800 100 100 L 50 50 1 1 B
+X DIO7/~CTS 12 800 0 100 L 50 50 1 1 B
+X ON/~SLEEP 13 800 -100 100 L 50 50 1 1 O
+X VREF 14 -800 0 100 R 50 50 1 1 I
+X AD5/DIO5 15 800 -200 100 L 50 50 1 1 B
+X AD6/DIO6/~RTS 16 800 -300 100 L 50 50 1 1 B
+X AD3/DIO3 17 -800 -400 100 R 50 50 1 1 B
+X AD2/DIO2 18 -800 -300 100 R 50 50 1 1 B
+X AD1/DIO1 19 -800 -200 100 R 50 50 1 1 B
+X UART/DOUT 2 800 500 100 L 50 50 1 1 O
+X AD0/DIO0 20 -800 -100 100 R 50 50 1 1 B
+X UART/DIN/Config 3 -800 400 100 R 50 50 1 1 I
+X DO8 4 800 400 100 L 50 50 1 1 O
+X ~Reset 5 -800 300 100 R 50 50 1 1 I
+X PWM0/RSSI 6 800 300 100 L 50 50 1 1 O
+X PWM1 7 800 200 100 L 50 50 1 1 O
+X Reserved 8 -800 200 100 R 50 50 1 1 B
+X DTR/SLRQ/DI8 9 -800 100 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# power_+3.3V
+#
+DEF power_+3.3V #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "power_+3.3V" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+ALIAS +3.3V
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +3V3 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# power_+5V
+#
+DEF power_+5V #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "power_+5V" 0 140 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 0 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +5V 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# power_GND
+#
+DEF power_GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "power_GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+#End Library
