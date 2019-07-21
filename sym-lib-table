@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name One_Month_Board_Symbols)(type Legacy)(uri ${KIPRJMOD}/One_Month_Board_Symbols.lib)(options "")(descr ""))
+)
